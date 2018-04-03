@@ -9,9 +9,6 @@ The SUPReMM Open XDMoD module should be upgraded at the same time as the main XD
 software. The upgrade procedure is documented on the [XDMoD upgrade
 page](http://open.xdmod.org/upgrade.html).
 
-7.5.1 to 8.0.0 Upgrade Notes
-----------------------------
-
 7.5.0 to 7.5.1 Upgrade Notes
 ----------------------------
 
